@@ -1,0 +1,9 @@
+transformer
+numpy
+pandas
+matplotlib
+plotly
+scikit-learn
+torch
+jieba
+nbformat
