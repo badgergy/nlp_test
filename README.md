@@ -13,6 +13,8 @@
 - `xwlb_raw.csv`: cleaned xwlb raw data
 - `ce_cn_labeled.csv`: cleaned and labeled ce_cn data
 - `xwlb_labeled.csv`: cleaned and labled xwlb_data
+- `neg_dict.txt`: negative words
+- `pos_dict.txt`: positive words
 
 
 ## Colab
@@ -29,3 +31,6 @@ For the LLM demo [colab](https://colab.research.google.com/drive/1xQC9Qoo0ETPd76
 - `tools.py` is used to remove the stopwords
 - `download.py` is used to download the source data
 - `requirements.txt` runtime requirements
+
+
+[GitHub](https://github.com/badgergy/nlp_test)
