@@ -25,3 +25,9 @@ label2id = {
     "社会": 8,
     "医疗": 9
 }
+
+sentlabel2id = {
+    'pos': 2,
+    'neutral': 1,
+    'neg': 0
+}
