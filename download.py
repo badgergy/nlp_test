@@ -3,11 +3,11 @@ import boto3
 from tqdm import tqdm
 
 # Replace these with your AWS credentials
-aws_access_key_id = 'AKIA4B7Z6CIDZAZCC2NU'
-aws_secret_access_key = '7SpaDXqviwb9VntF822y3qAcTpCTA7Fb/zDspTs+'
+aws_access_key_id = 'access_key'
+aws_secret_access_key = 'secret key'
 
 # Replace this with your S3 bucket name
-bucket_name = 'ext-candidate-data'
+bucket_name = 'bucket name'
 
 # Initialize the S3 client
 s3 = boto3.client('s3', aws_access_key_id=aws_access_key_id, aws_secret_access_key=aws_secret_access_key)
